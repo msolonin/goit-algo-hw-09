@@ -4,9 +4,13 @@
 Велика сума = 158917
 
 For greedy algorithm: {50: 2, 10: 1, 2: 1, 1: 1}
+
 For min algorithm: {50: 2, 10: 1, 2: 1, 1: 1}
+
 For greedy algorithm: {50: 3178, 10: 1, 5: 1, 2: 1}
+
 For min algorithm: {50: 3178, 10: 1, 5: 1, 2: 1}
+
 | Algorithm                | Time small data            | Time large data
 |------------------------- | -------------------------- | -------------------
 | Greedy                   | 4.0169998101191595e-06     | 2.9929997253930196e-06
